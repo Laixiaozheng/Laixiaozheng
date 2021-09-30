@@ -1,7 +1,10 @@
-Name：赖晓铮 
-Affiliation：华南理工大学  计算机科学与工程学院
-Job Title：副教授
-Email：laixz@scut.edu.cn 
+Name：赖晓铮  
+
+Affiliation：华南理工大学  计算机科学与工程学院  
+
+Job Title：副教授  
+
+Email：laixz@scut.edu.cn  
 
 CCF会员，华为“智能基座”课程合作导师。
 研究方向： (1) 芯片敏捷设计，开源EDA工具链；(2) 基于RISC-V架构的计算机体系结构研究；(3) 嵌入式系统、物联网及RFID技术；
